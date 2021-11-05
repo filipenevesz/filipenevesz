@@ -1,6 +1,6 @@
 ## Opa! Bem vindo ao meu perfil!  👋
 
- <div align="center">
+ <div>
     <a href="https://github.com/filipenevesz">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipenevesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8904B1"/>
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipenevesz&layout=compact&langs_count=7&theme=dracula&title_color=8e42fe"/>
